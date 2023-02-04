@@ -37,4 +37,11 @@ A MLH Hackathon HackFit Winning Project representing 7 Chakras of Human body to 
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 </p>
 
+## License
+
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Susmita-Dey/Swasthi/blob/main/LICENSE) file for details.
+
+
 
